@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian cache / local workspace state
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Trash
+.trash/
+
+# Optional local-only plugin data
+.obsidian/plugins/*/data.json
+
+# Logs / temp
+*.log
+*.tmp
+
+# Ignore agents.md directory
+agents.md/
