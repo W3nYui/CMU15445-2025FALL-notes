@@ -14,6 +14,12 @@ desktop.ini
 # Optional local-only plugin data
 .obsidian/plugins/*/data.json
 
+
+.git/plugins/
+.obsidian/plugins/
+.obsidian/snippets/
+cursor-positions.json
+
 # Logs / temp
 *.log
 *.tmp
