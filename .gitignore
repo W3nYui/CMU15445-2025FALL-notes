@@ -19,4 +19,4 @@ desktop.ini
 *.tmp
 
 # Ignore agents.md directory
-agents.md/
+AGENTS.md/
