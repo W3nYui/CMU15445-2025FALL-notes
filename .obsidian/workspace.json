@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21c7780e30035f92",
+        "id": "91c17a3169f35297",
         "type": "tabs",
         "children": [
           {
-            "id": "371c304b1b8a47e8",
+            "id": "468ad40b3856a682",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p4项目事项.md",
+                "file": "p4项目记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "p4项目事项 的大纲"
+              "title": "p4项目记录 的大纲"
             }
           },
           {
@@ -195,14 +195,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "371c304b1b8a47e8",
+  "active": "cb1337dfd06f7276",
   "lastOpenFiles": [
-    "p4项目记录.md",
     "p4项目事项.md",
+    "p4项目记录.md",
+    "p4.3MVCC的分析.md",
+    "mvcc_update_delete_notes.md",
+    "p3项目事项.md",
+    "task3_update_delete_executor_guide.md",
+    "conflict-files-obsidian-git.md",
     "P1项目记录.md",
     "p2项目事项.md",
     "p3项目记录.md",
-    "p3项目事项.md",
     "images/Pasted image 20260520180932.png",
     "Pasted image 20260520180932.png",
     "Pasted image 20260520180932.png.md",

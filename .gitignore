@@ -13,6 +13,7 @@ desktop.ini
 
 # Optional local-only plugin data
 .obsidian/plugins/*/data.json
+.obsidian/plugins
 
 
 .git/plugins/
