@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p4.3MVCC的分析.md",
+                "file": "p4项目事项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "p4.3MVCC的分析"
+              "title": "p4项目事项"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p4.3MVCC的分析.md",
+                "file": "p4项目事项.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "p4.3MVCC的分析 的大纲"
+              "title": "p4项目事项 的大纲"
             }
           },
           {
@@ -198,8 +198,8 @@
   "active": "468ad40b3856a682",
   "lastOpenFiles": [
     "p4项目记录.md",
-    "p4.3MVCC的分析.md",
     "p4项目事项.md",
+    "p4.3MVCC的分析.md",
     "p3项目事项.md",
     "task3_update_delete_executor_guide.md",
     "conflict-files-obsidian-git.md",
