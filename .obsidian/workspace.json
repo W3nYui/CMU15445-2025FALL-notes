@@ -197,10 +197,10 @@
   },
   "active": "468ad40b3856a682",
   "lastOpenFiles": [
-    "p4项目记录.md",
-    "mvcc_update_delete_notes.md",
-    "p4项目事项.md",
     "p4.3MVCC的分析.md",
+    "mvcc_update_delete_notes.md",
+    "p4项目记录.md",
+    "p4项目事项.md",
     "p3项目事项.md",
     "task3_update_delete_executor_guide.md",
     "conflict-files-obsidian-git.md",
