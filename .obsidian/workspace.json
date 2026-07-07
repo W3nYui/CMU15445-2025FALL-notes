@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2440cf5e3c18400",
+        "id": "91c17a3169f35297",
         "type": "tabs",
         "children": [
           {
-            "id": "639c8ae5b2cf67a0",
+            "id": "b560ade978e689ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "新标签页"
             }
           }
         ]
@@ -195,10 +191,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cb1337dfd06f7276",
+  "active": "00669513d9301216",
   "lastOpenFiles": [
-    "p4项目事项.md",
     "conflict-files-obsidian-git.md",
+    "p4项目事项.md",
     "p4项目记录.md",
     "P1项目记录.md",
     "p2项目事项.md",
