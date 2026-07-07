@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p4项目事项.md",
+                "file": "p4.3MVCC的分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "p4项目事项"
+              "title": "p4.3MVCC的分析"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p4项目事项.md",
+                "file": "p4.3MVCC的分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "p4项目事项 的大纲"
+              "title": "p4.3MVCC的分析 的大纲"
             }
           },
           {
@@ -195,11 +195,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a6479c906d3fe9d",
+  "active": "b560ade978e689ea",
   "lastOpenFiles": [
-    "p4项目记录.md",
-    "conflict-files-obsidian-git.md",
     "p4项目事项.md",
+    "p4项目记录.md",
+    "p4.3MVCC的分析.md",
+    "task3_update_delete_executor_guide.md",
+    "conflict-files-obsidian-git.md",
     "P1项目记录.md",
     "p2项目事项.md",
     "p3项目记录.md",
